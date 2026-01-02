@@ -37,6 +37,9 @@ I believe clean code is a form of self-respect—and yes, I refactor.
   <a href="https://codeforces.com/profile/jatin2708" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
+  <a href="https://www.geeksforgeeks.org/profile/jatinagga2wus/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -79,6 +82,10 @@ I believe clean code is a form of self-respect—and yes, I refactor.
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=JatinAggarwal2004&icon=0&color=0" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </p>
 
 <p align="center">
