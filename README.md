@@ -133,7 +133,10 @@ public final class Jatin extends FullStackEngineer {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JatinAggarwal2004&bg_color=0d1117&color=e6edf3&line=26a641&point=2f81f7&area=true&area_color=15351f&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="contribution activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JatinAggarwal2004/JatinAggarwal2004/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/JatinAggarwal2004/JatinAggarwal2004/output/github-contribution-grid-snake.svg" alt="contribution snake — real data, regenerated daily" width="100%" />
+  </picture>
 </p>
 
 ## 🏆 GitHub Trophies
