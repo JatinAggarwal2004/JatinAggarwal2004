@@ -128,7 +128,7 @@ public final class Jatin extends FullStackEngineer {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JatinAggarwal2004&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d1117&border_color=30363d&title_color=2f81f7&text_color=c9d1d9&icon_color=2f81f7&ring_color=2dd4bf" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JatinAggarwal2004&show_icons=true&count_private=true&bg_color=0d1117&border_color=30363d&title_color=2f81f7&text_color=c9d1d9&icon_color=2f81f7&ring_color=2dd4bf" alt="GitHub stats" />
   <img height="170" src="https://streak-stats.demolab.com?user=JatinAggarwal2004&background=0d1117&border=30363d&ring=2f81f7&fire=2f81f7&currStreakLabel=2f81f7&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=7d8590&dates=7d8590&stroke=30363d" alt="GitHub streak" />
 </p>
 
