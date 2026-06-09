@@ -133,7 +133,7 @@ public final class Jatin extends FullStackEngineer {
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/26a641/JatinAggarwal2004" width="100%" alt="contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JatinAggarwal2004&bg_color=0d1117&color=e6edf3&line=26a641&point=2f81f7&area=true&area_color=15351f&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="contribution activity graph" />
 </p>
 
 ## 🏆 GitHub Trophies
@@ -191,5 +191,5 @@ public final class Jatin extends FullStackEngineer {
 </table>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=JatinAggarwal2004&icon=0&color=0" alt="profile visits" />
+  <img src="https://komarev.com/ghpvc/?username=JatinAggarwal2004&style=for-the-badge&color=2f81f7&label=PROFILE+VIEWS" alt="profile views" />
 </p>
